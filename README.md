@@ -9,7 +9,7 @@ Analyses of data collected at baseline are currently being undertaken.
 
 Figure 1 displays the consort diagram describing participant enrollment and analysis.
 ![Slide2](https://user-images.githubusercontent.com/121979841/210651477-ef51c480-8c38-4b3f-9e42-c4db2423da19.jpeg)
-Figure 1: Study consort diagram
+Figure 1. Study consort diagram
 
 
 ## Description of study participants
@@ -20,7 +20,7 @@ Table 1 provides the characteristics of study participants at baseline.
 ## Description of study procedures
 Figure 2 outlines the study day procedures for the laboratory visits at baseline, one-year follow-up and two-year follow-up.
 <img width="499" alt="Screen Shot 2024-04-05 at 5 24 16 PM" src="https://github.com/Columbia-Center-for-EDs/Longitudinal-Assessment-of-Teens-with-Anorexia-Nervosa/assets/121979841/8ce26359-43d9-4258-ae89-0d6f9f58ad93">
-
+Figure 2. Study day procedures
 Participants ate a standardized meal at approximately 12 pm and completed the Food Choice Task with fMRI scanning two hours later. The task comprises two rating phases and a choice phase. During the Choice phase on each trial participants indicated their preference for a changing food item relative to a repeated reference item (on the left; see Foerde et al., 2015 for further information about the task). Approximately 90 minutes after the scan session, participants completed a multi-item buffet meal. At 7 pm participants were served a snack-sized portion of one of their food selections in the Food Choice Task (one trial was randomly selected and the choice honoured). Note that the exact timings may have varied but the break between each study phase was consistent across participants.
 
 

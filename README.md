@@ -27,7 +27,7 @@ Participants ate a standardized meal at approximately 12 pm and completed the Fo
 
 One trial from the Food Choice Task was randomly selected, and a snack-sized portion of the choice on this trial was served to the participant in the evening. For patients recieving inpatient care at the New York State Psychiatric Institute, the task food replaced their evening snack and was served at around 8 pm. Outpatients and healthy control participants (HC) were given their snack to take home after the multi-item meal and instructed to eat it as an evening snack.
 
-Note that the exact timings may have varied but the interval between the Food Choice Task and the multi-item buffet meal was consistent across patients.
+Note that the exact timings may have varied but the interval between the Food Choice Task and the multi-item buffet meal was consistent across participants.
 
 
 Foerde K, Steinglass JE, Shohamy D, Walsh BT. Neural mechanisms supporting maladaptive food choices in anorexia nervosa. Nat Neurosci. 2015 Nov;18(11):1571-3. doi: 10.1038/nn.4136. Epub 2015 Oct 12. PMID: 26457555; PMCID: PMC4624561.

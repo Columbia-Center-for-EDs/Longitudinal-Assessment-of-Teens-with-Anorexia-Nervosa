@@ -19,8 +19,7 @@ Table 1 provides the characteristics of study participants at baseline.
 
 ## Description of study procedures
 Figure 2 outlines the study day procedures for the laboratory visits at baseline, one-year follow-up and two-year follow-up.
-<img width="499" alt="Screen Shot 2024-04-05 at 5 24 16 PM" src="https://github.com/Columbia-Center-for-EDs/Longitudinal-Assessment-of-Teens-with-Anorexia-Nervosa/assets/121979841/8ce26359-43d9-4258-ae89-0d6f9f58ad93">
-
+<img width="657" alt="Screen Shot 2024-04-08 at 4 35 26 PM" src="https://github.com/Columbia-Center-for-EDs/Longitudinal-Assessment-of-Teens-with-Anorexia-Nervosa/assets/121979841/5aaecfec-9192-4f80-8106-f1287f0a6630">
 
 Figure 2. Study day procedures
 

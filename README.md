@@ -20,6 +20,7 @@ Table 1 provides the characteristics of study participants at baseline.
 ## Description of study procedures
 Figure 2 outlines the study day procedures for the laboratory visits at baseline, one-year follow-up and two-year follow-up.
 <img width="655" alt="Screen Shot 2024-04-08 at 4 36 48 PM" src="https://github.com/Columbia-Center-for-EDs/Longitudinal-Assessment-of-Teens-with-Anorexia-Nervosa/assets/121979841/61b3a1c6-6905-415f-ab12-e622df82fa5f">
+
 Figure 2. Study day procedures
 
 Participants ate a standardized meal at approximately 12 pm and completed the Food Choice Task with fMRI scanning two hours later. The task comprises two rating phases and a choice phase. During the Choice phase, on each trial participants indicated their preference for a changing food item relative to a repeated reference item (see Foerde et al., 2015 for further information about the task). Approximately 90 minutes after the scanning session, participants completed a multi-item buffet meal. 
